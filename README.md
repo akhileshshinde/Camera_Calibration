@@ -61,7 +61,7 @@ Captured images are saved in:
 - `images/right/` (right camera)
 
 ### 2. Stereo Camera Calibration
-Run `calibration.py` to calibrate the stereo camera.
+Run `calibration.py` to calibrate the stereo camera or run `Calibration.ipynb` in google colab for simplicity.
 
 #### Instructions:
 1. Ensure `images/left` and `images/right` contain the captured stereo images.
