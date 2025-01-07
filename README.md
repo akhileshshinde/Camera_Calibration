@@ -82,7 +82,9 @@ Run `calibration.py` to calibrate the stereo camera or run `Calibration.ipynb` i
 - **Disparity-to-Depth Matrix (Q)**: For depth estimation.
 - **Visualization**:
   - Original and undistorted images.
+  - ![image alt](https://github.com/akhileshshinde/Camera_Calibration/blob/e5b34fcad682fdec649e5d76378305a397262603/l_distortion.png), ![image alt](https://github.com/akhileshshinde/Camera_Calibration/blob/e5b34fcad682fdec649e5d76378305a397262603/r_distortion.png)
   - Rectified images with epipolar lines.
+  - ![image alt](https://github.com/akhileshshinde/Camera_Calibration/blob/e5b34fcad682fdec649e5d76378305a397262603/rectification.png)
 
 ## FAQs
 
