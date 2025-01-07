@@ -71,6 +71,8 @@ Run `calibration.py` to calibrate the stereo camera or run `Calibration.ipynb` i
    ```
 3. The script will:
    - Detect checkerboard corners.
+   - ![image alt](https://github.com/akhileshshinde/Camera_Calibration/blob/bf35543d4334874538e507939d5bcb2d230a5ffb/left_0c.png)
+   - ![image alt]()
    - Compute intrinsic and extrinsic parameters.
    - Perform stereo rectification.
    - Save calibration data to `stereo_calibration.pkl`.
